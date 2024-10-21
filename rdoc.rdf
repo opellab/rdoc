@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.org/rdoc#"
+     xml:base="http://purl.org/rdoc"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdoc="http://purl.org/rdoc#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dcterms="http://purl.org/dc/terms/">
+    <owl:Ontology rdf:about="http://purl.org/rdoc">
+        <dc:contributor>Dr. Rogério Blitz, Dr. Marcel Jentsch, André Kerber, Prof. Dr. Nils Opel, Yannik Terhorst, Dr. Mira Tschorn</dc:contributor>
+        <dc:creator>Dr. Rogério Blitz, Dr. Marcel Jentsch, André Kerber, Prof. Dr. Nils Opel, Yannik Terhorst, Dr. Mira Tschorn</dc:creator>
+        <dc:date>2024-10-21</dc:date>
+        <dc:publisher>Dr. Rogério Blitz, Dr. Marcel Jentsch, André Kerber, Prof. Dr. Nils Opel, Yannik Terhorst, Dr. Mira Tschorn</dc:publisher>
+        <dcterms:issued>2024-10-21</dcterms:issued>
+        <dcterms:license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+        <dcterms:rights>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.</dcterms:rights>
+        <dcterms:rightsHolder>Dr. Rogério Blitz, Dr. Marcel Jentsch, André Kerber, Prof. Dr. Nils Opel, Yannik Terhorst, Dr. Mira Tschorn</dcterms:rightsHolder>
+        <rdfs:comment>Dynamic Ontology for Mental Health Classification representing various classes to structure mental health dimensions in the RDoC framework.</rdfs:comment>
+        <rdfs:label>Dynamic Ontology for Mental Health Classification based on RDoC Framework</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc"/>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</owl:versionInfo>
+    </owl:Ontology>
+</rdf:RDF>    
